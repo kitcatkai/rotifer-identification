@@ -28,6 +28,6 @@ As images are sensitive, I only upload a few sample of images in `Image` folder.
 
 ## Issues
 
-Any questions about how to setup, kindly pull an issue. I will resolve ASAP.
+Any questions about how to setup, kindly report an issue. I will resolve ASAP.
 
 
