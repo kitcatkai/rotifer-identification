@@ -19,11 +19,12 @@ Compiling on **Linux** by using command `make` (or alternative way by using comm
 
 ## Trained Weights and Architecture
 
-Architecture for tiny-yolov3 and yolov3 can be found in `cfg` folder. As for the weights
+Architecture for tiny-yolov3 and yolov3 can be found in `cfg` folder. As for the weights, please head to this link to download:
+https://transfernow.net/71k023s1544x
 
 ## Images
 
-As images are sensitive, I only upload a few sample of images in `Image1 folder.
+As images are sensitive, I only upload a few sample of images in `Image` folder.
 
 ## Issues
 
